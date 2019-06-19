@@ -1,18 +1,18 @@
 # Site settings
 title: WY Blog
 SEOTitle: LeonW的博客 | WY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-shiao.jpg
 email: wyleon96@gmail.com
 description: "My Beautiful Dark Twisted Fantasy."
 keyword: "WY, JXUFE, CUHK, SN, RE Investment, CFA"
 url: "http://wyleon.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wyleon/wyleon.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Every Word Counts."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/blog-profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -91,8 +91,8 @@ service-worker: true
 
 
 
-# Related
-related: [
+# Friends
+friends: [
     {
         title: "JXUFE",
         href: "http://intl.jxufe.cn/"
